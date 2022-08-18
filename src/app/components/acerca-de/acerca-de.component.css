@@ -1,0 +1,59 @@
+.row{
+    background-color: lightsteelblue;
+}
+
+.row{
+    
+    padding: 10px;
+}
+div{
+    text-align: center;
+}
+
+#fotoDePerfil{
+    width: 100px;
+    margin-bottom: 600px;
+    margin-top: 38px;
+}
+
+#nombre{
+    font-weight: bold;
+    margin-top: 25px;
+
+
+}
+
+  
+/*estilo foto de perfil*/
+
+
+@media screen and (min-width: 576px){
+    #fotoDePerfil{
+        
+        width: 10%;
+        position: absolute;
+        box-shadow: 3px 3px 3px 3px gray;
+        border-radius: 100%;
+        margin-bottom: 60px;
+        left: 60px;
+        top: 695px;
+       bottom: 100px
+     
+        
+    }
+}
+
+@media screen and (max-width: 575px){
+    #fotoDePerfil{
+        width: 20%;
+        position: absolute;
+        box-shadow: 3px 3px 3px 3px gray;
+        border-radius: 100%;
+        margin-bottom: 60px;
+        left: 20px;
+        top: 720px;
+       bottom: 100px
+     
+        
+    }
+}

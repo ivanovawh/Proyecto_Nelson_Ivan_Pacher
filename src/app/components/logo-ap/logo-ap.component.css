@@ -1,0 +1,44 @@
+
+
+
+#logoap{
+    height: 220px;
+    width: 1292px;
+   
+}
+@media screen and (max-width: 575px){
+   
+    #logoap{
+        width: 425px;
+    }
+
+    
+    
+         
+     
+ }
+
+ img{
+    width: 48px;
+   display: flex;
+   margin-left:3px ;
+   
+    
+  
+    
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.redes button{
+    margin: 2px;
+    font-size: 13px ;
+    font-weight: bold;
+   
+   
+}
+
+

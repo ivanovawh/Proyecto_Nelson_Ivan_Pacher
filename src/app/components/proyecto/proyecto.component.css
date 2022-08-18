@@ -1,0 +1,39 @@
+@media screen and (max-width: 575px){
+   
+   img{
+    width: 500px;
+   }
+    /* #fotoDePerfil{
+        
+        /*width: 10%;
+        position: absolute;
+        box-shadow: 3px 3px 3px 3px gray;
+        border-radius: 100%;
+        margin-bottom: 60px;
+        left: 60px;
+        top: 750px;
+       bottom: 100px
+     */
+
+
+        
+    
+}
+
+.row{
+    padding: 20px;
+    background-color: lightsteelblue;
+}
+.contenedor{
+    width: auto;
+
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+
+.img-proyecto{
+    box-shadow: 10px 10px 30px #000000;
+    box-shadow: ejeX ejeY difuminacion color;
+}
